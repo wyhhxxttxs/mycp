@@ -1,10 +1,13 @@
 {
-    "name": "administrator/mycp",
+    "name": "plmxs/mycp",
+    "description": "my first cp test",
+    "type": "library",
     "authors": [
         {
             "name": "liuhao",
             "email": "liuhao@corp-ci.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
