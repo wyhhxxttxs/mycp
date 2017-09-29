@@ -1,0 +1,10 @@
+{
+    "name": "administrator/mycp",
+    "authors": [
+        {
+            "name": "liuhao",
+            "email": "liuhao@corp-ci.com"
+        }
+    ],
+    "require": {}
+}
